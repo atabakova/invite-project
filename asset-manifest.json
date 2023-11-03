@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invite-project/static/css/main.cd5d95a0.css",
+    "main.js": "/invite-project/static/js/main.daf5b3dc.js",
+    "index.html": "/invite-project/index.html",
+    "main.cd5d95a0.css.map": "/invite-project/static/css/main.cd5d95a0.css.map",
+    "main.daf5b3dc.js.map": "/invite-project/static/js/main.daf5b3dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.daf5b3dc.js"
+  ]
+}
